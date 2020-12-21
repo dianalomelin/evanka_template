@@ -5,7 +5,7 @@
 ### Data Science 
 
 [PCA vs B-splines](/sample_page)
-<img src="images/fashion.jpg?raw=true"/>
+<img src="images/fashion.JPG?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
